@@ -6,7 +6,7 @@
 - Sends an alert either with an error or with information that the mail has been received.
 
 ## Screenshots
-<img src="https://github.com/SergeyKykhov/Mail-verification-Vkontakte/blob/main/Screenshots/1.png" width="214" height="433"><img src="https://github.com/SergeyKykhov/Mail-verification-Vkontakte/blob/main/Screenshots/2.png" width="214" height="433"><img src="https://github.com/SergeyKykhov/Mail-verification-Vkontakte/blob/main/Screenshots/3.png" width="214" height="433">
+<img src="https://github.com/SergeyKykhov/Mail-verification-Vkontakte/blob/main/Screenshots/1.png" width="214" height="432"><img src="https://github.com/SergeyKykhov/Mail-verification-Vkontakte/blob/main/Screenshots/2.png" width="214" height="432"><img src="https://github.com/SergeyKykhov/Mail-verification-Vkontakte/blob/main/Screenshots/3.png" width="214" height="432">
 
 ## Setup
 - [x] Go on [ kickbox ]( https://kickbox.com)to get your API-key
